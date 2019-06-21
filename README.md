@@ -11,9 +11,9 @@ Guidez Thanin l'explorateur dans le niveau en récoltant les gemmes et en tuant 
 Aidez le à retrouver la porte du chateau !
 
 ### Guide de déplacements
-Vous pourrez déplacer Thanin en utilisant les flèches du clavier.
-"<-" pour aller à droite
-"->" pour aller à gauche
-et flèche du haut pour sauter et tuer les zombies !
++ Vous pourrez déplacer Thanin en utilisant les flèches du clavier.
++ "<-" pour aller à droite
++ "->" pour aller à gauche
++ et flèche du haut pour sauter et tuer les zombies !
 
 ## Bon jeu à vous et n'hésitez pas à me faire parvenir vos remarques =)
