@@ -1,7 +1,7 @@
 # Bienvenue sur "Thanin's World"
 Ce mini jeu de plateforme fait suite à ma formation Udemy de H2Prog.
 
-## Installation
+### Installation
 `npm install` tout simplement
 `npm start` pour lancer le serveur et le jeu
 `localhost:8080` et à vous de jouer !
@@ -16,4 +16,4 @@ Vous pourrez déplacer Thanin en utilisant les flèches du clavier.
 "->" pour aller à gauche
 et flèche du haut pour sauter et tuer les zombies !
 
-# Bon jeu à vous et n'hésitez pas à me faire parvenir vos remarques =)
+## Bon jeu à vous et n'hésitez pas à me faire parvenir vos remarques =)
