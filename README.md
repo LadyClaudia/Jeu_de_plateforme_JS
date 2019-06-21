@@ -2,9 +2,9 @@
 Ce mini jeu de plateforme fait suite à ma formation Udemy de H2Prog.
 
 ### Installation
-`npm install` tout simplement
-`npm start` pour lancer le serveur et le jeu
-`localhost:8080` et à vous de jouer !
++ `npm install` tout simplement
++ `npm start` pour lancer le serveur et le jeu
++ `localhost:8080` et à vous de jouer !
 
 ### But du jeu
 Guidez Thanin l'explorateur dans le niveau en récoltant les gemmes et en tuant les zombies !
