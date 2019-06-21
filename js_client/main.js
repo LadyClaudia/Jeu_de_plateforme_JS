@@ -20,7 +20,6 @@ function preload(){
     jeu.scene.load.audio("you_win", "you_win.ogg");
     jeu.scene.load.audio("you_lose", "you_lose.ogg");
     jeu.scene.load.audio("zombie", "zombie.ogg");
-    jeu.scene.load.audio("jump", "jump.ogg");
 
     jeu.scene.load.image("validation", "yellow_boxCheckmark.png");
     jeu.scene.load.image("panel", "yellow_panel.png");
