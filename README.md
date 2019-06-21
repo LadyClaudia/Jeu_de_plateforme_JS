@@ -12,8 +12,8 @@ Aidez le à retrouver la porte du chateau !
 
 ### Guide de déplacements
 + Vous pourrez déplacer Thanin en utilisant les flèches du clavier.
-+ "<-" pour aller à droite
-+ "->" pour aller à gauche
++ "<-" pour aller à gauche
++ "->" pour aller à droite
 + et flèche du haut pour sauter et tuer les zombies !
 
 ## Bon jeu à vous et n'hésitez pas à me faire parvenir vos remarques =)
